@@ -2,6 +2,8 @@
 ![Logo](https://www.podfeet.com/blog/wp-content/uploads/2022/02/OpenCore-Logo-bg.png)
 
 This repository provides the basic EFI folder to run macOS BigSur on an Asus X550L laptop. This EFI has not been tested on macOS Monterey
+## Credits:
+[Based on the work of JaemanPratama](https://github.com/JaemanPratama/Hackintosh-EFI-Library-Asus-A455L-X455L-Model)
 ## Setup
 ### Asus X550L
 
