@@ -38,7 +38,7 @@ This repository provides the basic EFI folder to run macOS BigSur on an Asus X55
 - Ethernet
 - Receiving and sending calls
 - Webcam
-- Apple services (See https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html)
+- Apple services ([More info](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html))
 
 
 ### Known issues:
