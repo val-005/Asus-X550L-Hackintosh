@@ -7,7 +7,7 @@ This repository provides the basic EFI folder to run macOS BigSur on an Asus X55
 ## Setup
 ### Asus X550L
 
-[![OpenCore](https://img.shields.io/badge/OpenCore-v0.8.3-blue?style=flat&logo=okta)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore](https://img.shields.io/badge/OpenCore-v0.8.5-blue?style=flat&logo=okta)](https://github.com/acidanthera/OpenCorePkg)
 
 | **Category**   | **Component**                 		
 |----------------|--------------------------------------|
@@ -20,7 +20,7 @@ This repository provides the basic EFI folder to run macOS BigSur on an Asus X55
 |**Ethernet**    |Realtek RTL8111				 		                    |										      								      
 
 ### Versions
-- **OpenCore:** 0.8.3
+- **OpenCore:** 0.8.5
 - **macOS:** 11.7.1 
 
 ### BIOS configuration
